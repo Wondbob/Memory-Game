@@ -59,7 +59,8 @@ const generateGame = () => {
         'img/5.jpg',
         'img/6.jpg',
         'img/7.jpg',
-        'img/8.jpg'
+        'img/8.png',
+        'img/9.jpg'
     ];
 
     const picks = pickRandom(images, (dimensions * dimensions) / 2) 
